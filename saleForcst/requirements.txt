@@ -1,6 +1,6 @@
 
 streamlit
-fix-yahoo-finance= 0.1.37
+ yfinance= 0.1.37
 
 
 
