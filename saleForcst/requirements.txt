@@ -2,6 +2,7 @@
 streamlit
 yfinance
 fbprophet 
+pystan
 
 
 
