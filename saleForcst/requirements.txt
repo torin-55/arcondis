@@ -1,8 +1,7 @@
 
 streamlit
 yfinance
-fbprophet 
-Cython 
-
+fbprophet
+pystan==2.19.1.1
 
 
