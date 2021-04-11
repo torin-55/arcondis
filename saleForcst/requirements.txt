@@ -1,6 +1,6 @@
 
 streamlit
-import yfinance as yf
+pip install yfinance --upgrade --no-cache-dir
 
 
 
