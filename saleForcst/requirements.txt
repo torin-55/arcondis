@@ -1,6 +1,6 @@
 
 streamlit
- yfinance= 0.1.37
+yfinance
 
 
 
