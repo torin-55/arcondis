@@ -1,6 +1,6 @@
 
 streamlit
-pip install yfinance --upgrade --no-cache-dir
+fix-yahoo-finance= 0.1.37
 
 
 
